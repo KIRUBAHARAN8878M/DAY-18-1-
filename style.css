@@ -1,0 +1,27 @@
+
+ 
+
+body{
+  background: rgb(11,61,71);
+  background: linear-gradient(90deg, rgba(11,61,71,1) 1%, rgba(5,202,242,1) 26%, rgba(88,203,227,1) 76%, rgba(11,61,71,1) 99%);
+ }
+
+.card-header{
+background-color: black;
+color: white;
+text-transform: uppercase;
+}  
+.card{
+  background: rgb(254,175,210);
+background: radial-gradient(circle, rgba(254,175,210,1) 23%, rgba(245,221,232,1) 63%);
+
+}
+.card-text{
+text-align: center;
+font-size: 18px;
+}
+
+img{
+  border: 1px solid white;
+
+}
